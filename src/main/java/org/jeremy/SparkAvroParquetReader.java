@@ -11,6 +11,7 @@ import org.apache.spark.sql.SparkSession;
 public class SparkAvroParquetReader {
     public static void main(String[] args) {
 
+        /// This is an invalid AWS credential
         String accessKey = "AKIAJF2UV6RZPUJY5JPA";
         String secretKey = "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";
 
